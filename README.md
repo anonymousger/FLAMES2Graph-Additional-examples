@@ -6,8 +6,7 @@ In the examples below, we demonstrate additional cases by taking a closer look a
 
 ## ECG dataset
 
-![Capture](https://user-images.githubusercontent.com/85762194/231527063-4ef39a1a-0fd4-4478-939d-6702773a9fcd.PNG)
-
+![Capture](https://user-images.githubusercontent.com/85762194/231527935-e88d8072-b305-42c5-8eac-bd30f5c04864.PNG)
 
 This example demonstrates the MHAP evolution graph for ECG data and the temporal transitions for a Class 1 data set sample. The framework identifies the important subsequences of the multivariate time series data and represents the temporal transition through the MHAP evolution graph. Figure (a) shows the three MHAPs extracted from the class 1 sample that serve as nodes in the graph shown in (b). The transitions between the nodes show the order of occurrence of the MHAPs in the input data. To understand the decision of the network in classifying time series, our framework relies on the important subsequences of the input data (MHAPs) and their temporal order, which is crucial. For instance, when interpreting ECG data, a physician needs to examine the data in a specific temporal sequence to determine whether the patient's ECG recording is normal or has pathological problems.
 
