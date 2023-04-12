@@ -5,10 +5,12 @@
 In the examples below, we demonstrate additional cases by taking a closer look at the interpretability capacity and the effectiveness of our proposed FLAMES2Graph framework for the ECG (2-dimensional) and UWave(3-dimensional) datasets.
 
 ## ECG dataset
-![ECG](https://user-images.githubusercontent.com/85762194/231487225-e5295a48-c872-42b6-a5db-a20c80ea7403.png)
+
+![ECG](https://user-images.githubusercontent.com/85762194/231525548-4e975823-5ad4-47a1-8457-bd7e02cc8072.png)
 
 For high resolution you can download the pdf file 
-[ECG.pdf](https://github.com/anonymousger/FLAMES2Graph-Additional-examples/files/11212214/ECG.pdf)
+[ECG.pdf](https://github.com/anonymousger/FLAMES2Graph-Additional-examples/files/11213928/ECG.pdf)
+
 
 This example demonstrates the MHAP evolution graph for ECG data and the temporal transitions for a Class 1 data set sample. The framework identifies the important subsequences of the multivariate time series data and represents the temporal transition through the MHAP evolution graph. Figure (a) shows the three MHAPs extracted from the class 1 sample that serve as nodes in the graph shown in (b). The transitions between the nodes show the order of occurrence of the MHAPs in the input data. To understand the decision of the network in classifying time series, our framework relies on the important subsequences of the input data (MHAPs) and their temporal order, which is crucial. For instance, when interpreting ECG data, a physician needs to examine the data in a specific temporal sequence to determine whether the patient's ECG recording is normal or has pathological problems.
 
