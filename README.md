@@ -6,7 +6,7 @@ In the examples below, we demonstrate additional cases by taking a closer look a
 
 ## ECG dataset
 
-![ECG](https://user-images.githubusercontent.com/85762194/231526840-54329f95-7056-4e66-b44d-c2ba1e5730f4.png)
+![Capture](https://user-images.githubusercontent.com/85762194/231527063-4ef39a1a-0fd4-4478-939d-6702773a9fcd.PNG)
 
 For high resolution you can download the pdf file 
 [ECG.pdf](https://github.com/anonymousger/FLAMES2Graph-Additional-examples/files/11213928/ECG.pdf)
