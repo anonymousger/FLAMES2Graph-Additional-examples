@@ -5,7 +5,7 @@
 In the examples below, we demonstrate additional cases by taking a closer look at the interpretability capacity and the effectiveness of our proposed FLAMES2Graph framework for the ECG (2-dimensional) and UWave(3-dimensional) datasets.
 
 ## ECG dataset
-![ECG](https://user-images.githubusercontent.com/85762194/231480798-6747f811-4dd1-465c-8049-949181919fdb.png)
+[ECG.pdf](https://github.com/anonymousger/FLAMES2Graph-Additional-examples/files/11212214/ECG.pdf)
 
 ## UWave dataset
 
