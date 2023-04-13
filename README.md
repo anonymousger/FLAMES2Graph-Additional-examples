@@ -12,7 +12,7 @@ This example demonstrates the MHAP evolution graph for ECG data and the temporal
 
 ## UWave dataset
 
-![Capture1](https://user-images.githubusercontent.com/85762194/231571784-f7c411f0-59b8-4ee0-bdd3-3813e2fbacbe.PNG)
+![Capture1](https://user-images.githubusercontent.com/85762194/231794593-57c17149-7a70-428a-a06d-8325b69dfbb7.PNG)
 
 Our framework is tested on two samples from the UWave dataset, as shown in this example. The first sample (a) includes three representative patterns (nodes 1, 2, and 3) that were learned from the network, while the second sample (b) consists of representative MHAP nodes 4, 5, and 2. The graph represents the relationship between these nodes based on their temporal occurrence order in (c). Notably, node 2 is present in both samples, but its temporal order is different in the two classes. Our graph representation plays a crucial role in identifying the representative patterns and their chronological order, aiding the classifier in making a specific decision.
 
